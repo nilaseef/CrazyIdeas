@@ -1,0 +1,2 @@
+# CrazyIdeas
+Learning GitHub
